@@ -19,7 +19,7 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (
         We recommend building UIs with a{" "}
         <a
           href="https://componentdriven.org"
-          target="_blank"
+          target="self"
           rel="noopener noreferrer"
         >
           <strong>component-driven</strong>
