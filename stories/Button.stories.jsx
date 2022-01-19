@@ -36,7 +36,7 @@ Large.args = {
 export const VeryLarge = Template.bind({});
 VeryLarge.args = {
   size: "large",
-  label: "Very long Text Button",
+  label: "Very long Text Button asd",
 };
 
 export const Small = Template.bind({});
